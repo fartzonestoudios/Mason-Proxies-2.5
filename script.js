@@ -7,8 +7,8 @@ function openLink() {
     ];
     const velaraLinks = [
         "https://mathprofession.buzz/",
+        "https://science.mathforkids.buzz/",
         "https://zearn.buzz/",
-        "https://ilikelittlekids.buzz/",
         "https://hardmath.buzz/",
         "https://hardenglish.buzz/"
     ];
